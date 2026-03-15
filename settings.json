@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "LenGun.aternos.me",
+    "port": 53418,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
